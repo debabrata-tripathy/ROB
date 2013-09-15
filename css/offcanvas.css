@@ -1,0 +1,27 @@
+
+	/* SIDEBAR */
+	#sidebar { 
+		float: left;
+		left: 300px;
+		margin-left: -300px;
+		z-index:4;
+		position: relative;
+		border: 1px solid #dddddd;
+		width: 300px;
+		overflow-y: auto;
+		position: relative;
+	}
+	#sidebar li {
+		margin: 0px 0px 5px;
+		}
+		
+	/* MAIN CONTENT AREA */
+	#contentWrapper { 
+		float: left;
+		width: 100%;
+		}
+	#content {
+		margin-left: 300px;
+		padding-bottom:200px;
+		overflow-y: auto;
+		}
