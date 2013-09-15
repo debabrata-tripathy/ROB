@@ -1,6 +1,6 @@
 ## Commands
 
-After downloading from Git, You need to follow the below steps to use the RIAK Object Browser:
+After downloading from GitHub, You need to follow the below steps to use the RIAK Object Browser:
 
 1. install apache server
 ````
